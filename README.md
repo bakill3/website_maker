@@ -13,3 +13,5 @@ Current Features:
     - CSS of the section;
     - Latitude & Longitude of the Map;
     - Delete/Edit default images from the template;
+    ![alt text](https://github.com/bakill3/website_maker/blob/master/edit.png)
+
