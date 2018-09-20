@@ -1,7 +1,7 @@
-# website_maker
+# WebSite Maker
 This is a website that generates websites (like wordpress). I made this project in 2 weeks with deadline in my internship;
 
-Current Features:
+## Current Features:
   - Login
   - Create project/website (choose comercial activity, the template, the desired sections for your website [about, map] and you're ready     to go);
   - Edit Project:
