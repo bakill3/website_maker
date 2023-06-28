@@ -1,5 +1,6 @@
 # WebSite Maker
 This is a website that generates websites (like wordpress). I made this project in 2 weeks with deadline in my internship;
+![website_maker](https://socialify.git.ci/bakill3/website_maker/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
 
 ## Current Features:
   - Login
